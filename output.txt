@@ -1,0 +1,3 @@
+Total no. of contents in directory /home is 1
+Below is the list of contents 
+UBUNTU
